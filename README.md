@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Vikas Chaurasia and I am MERN Stack Developer<br><br>- 📚 I'm currently learning React<br>- ⚡ In my free time I learn about new technology</p>
+<p align="left">My name is Vikas Chaurasia and I am MERN Stack Developer<br><br>- 📚 I'm currently learning React & Node.js<br>- ⚡ In my free time I learn about new technology</p>
 
 ###
 
