@@ -44,7 +44,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmevikas1009&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Languages Graph"  />
-  <img src="https://nirzak-streak-stats.vercel.app?user=itsmevikas1009&theme=dark&card_width=450" height="210" alt="Streak Graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app?user=itsmevikas1009&theme=dark&card_width=460" height="210" alt="Streak Graph"  />
 </div>
 
 ###
