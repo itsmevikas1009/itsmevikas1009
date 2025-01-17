@@ -33,7 +33,7 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="45" alt="tailwindcss logo"  />
   <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
 </div>
 
 ###
@@ -44,7 +44,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmevikas1009&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Languages Graph"  />
-  <img src="https://nirzak-streak-stats.vercel.app?user=itsmevikas1009&theme=dark&card_width=450" height="220" alt="Streak Graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app?user=itsmevikas1009&theme=dark&card_width=450" height="210" alt="Streak Graph"  />
 </div>
 
 ###
